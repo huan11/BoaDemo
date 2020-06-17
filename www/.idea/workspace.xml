@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4177b48-0b17-4509-a924-725631d0d4a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dL4jy3zzEUqsIBZKEgwJ8VTTis" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/demo1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\192.168.80.128\share\src\demo1" />
+      <recent name="\\192.168.80.128\share\" />
+      <recent name="\\192.168.80.128\share\src\webJson" />
+      <recent name="\\192.168.80.128\share\src\form_cgi\form2_cgic" />
+      <recent name="\\192.168.80.128\share\src\form_cgi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\192.168.80.128\share\src\form_cgi\form2_cgic" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4177b48-0b17-4509-a924-725631d0d4a7" name="Default Changelist" comment="" />
+      <created>1592191179075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592191179075</updated>
+      <workItem from="1592191180760" duration="1495000" />
+      <workItem from="1592193454307" duration="2097000" />
+      <workItem from="1592202119488" duration="176000" />
+      <workItem from="1592202298098" duration="3368000" />
+      <workItem from="1592215619987" duration="2865000" />
+      <workItem from="1592268607275" duration="37248000" />
+      <workItem from="1592314581449" duration="1304000" />
+      <workItem from="1592322379710" duration="955000" />
+      <workItem from="1592355038390" duration="18707000" />
+      <workItem from="1592379498227" duration="10289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592273431187">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1592273431187" />
+    <state x="510" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592382465891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="510" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1592382465891" />
+    <state x="933" y="175" key="FileChooserDialogImpl" timestamp="1592313139789">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="933" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592313139789" />
+    <state x="544" y="80" key="SettingsEditor" timestamp="1592355169434">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="544" y="80" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592355169434" />
+    <state x="461" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1592355037335">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="461" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1592268606777" />
+    <state x="461" y="254" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1592355037335" />
+    <state x="457" y="172" width="621" height="490" key="find.popup" timestamp="1592310469585">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="457" y="172" width="621" height="490" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1592310469585" />
+    <state x="809" y="190" key="run.anything.popup" timestamp="1592274493252">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="809" y="190" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1592274493252" />
+    <state x="814" y="160" width="672" height="703" key="search.everywhere.popup" timestamp="1592386298382">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="815" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1592308560451" />
+    <state x="814" y="160" width="672" height="703" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1592386298382" />
+    <state x="491" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1592281361346">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="491" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.834@0.0.1536.834" timestamp="1592281361346" />
+  </component>
+</project>

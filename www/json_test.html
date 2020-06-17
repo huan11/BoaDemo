@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>第七天 任务3</title>
+    <script src="js/jquery-1.12.4.min.js"> </script>
+
+</head>
+<body>
+<div id="myDiv1"><h2>我的名字是？</h2></div>
+<div id="myDiv2"><h2>我都密码是？</h2></div>
+<button type="button" id="btn1" >查询</button>
+</body>
+
+<script>
+    $(document).ready(function () {
+        $("#btn1").click(function () {
+            // ajax 从服务器请求的内容
+            $.getJSON("/cgi-bin/testJson", {"name": "mh", "pwd": "123"}, function (data) {
+                console.log(data);
+                // 在这里处理逻辑
+                var context1 = "温度是：" + data.name;
+                var context2 = "温度是：" + data.pwd;
+                $("#myDiv1").html(context1);
+                $("#myDiv2").html(context2);
+            });
+        });
+    });
+
+
+</script>
+</html>

@@ -1,0 +1,6 @@
+{
+	"id": 02,
+	"name": "4421",
+	"price": "700$",
+	"details": "high level"
+}

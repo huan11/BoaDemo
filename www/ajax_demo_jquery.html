@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>使用 AJAX (结合 jQuery)修改该文本内容,访问的 后台数据格式是普通txt(mytxt.txt)</title>
+    <script src="js/jquery-1.12.4.min.js"> </script>
+
+</head>
+<body>
+<div id="myDiv"><h2>使用 AJAX (结合 jQuery)修改该文本内容</h2></div>
+<button type="button" id="btn1" >修改内容</button>
+</body>
+
+<script>
+    $(document).ready(function () {
+        $("#btn1").click(function () {
+            // ajax 从服务器请求的内容
+            htmlobj = $.ajax({
+                url :"/ajax/mytxt.txt",
+                async:false // 同步 ，TODO 异步
+            });
+            // 对页面进行操作
+            $("#myDiv").html(htmlobj.responseText);
+        });
+    });
+</script>
+</html>

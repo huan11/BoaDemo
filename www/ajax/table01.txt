@@ -1,0 +1,7 @@
+{   "id": 2,
+    "name": "ddddd",
+    "task_size": "1.21GB",
+    "task_speed": "199kB/s",
+    "task_process": "67.18%",
+    "task_status": 2
+}

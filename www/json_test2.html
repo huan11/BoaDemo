@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ajax_demo_使用jQuery 操作 ajax , 访问的 数据格式是json</title>
+    <script src="js/jquery-1.12.4.min.js"> </script>
+
+</head>
+<body>
+<div>点击按钮获取JSON数据</div>
+<input type="button" id="button" value="确定" />
+<div id="result"></div>
+
+
+
+<!--<div id="myDiv"><h2>调试</h2></div>-->
+<!--<button type="button" id="btn1" >修改内容</button>-->
+</body>
+
+<script>
+    $(document).ready(function () {
+        $("#button").click(function () {
+            // ajax 从服务器请求的内容
+            htmlobj = $.ajax({
+                type:"GET",
+                data:{"name": "hello", "pwd": "123"},
+                url :"/cgi-bin/testJson",
+                dataType:"json",
+                success: function (data) {
+                    var music = "<ul>";
+                    //i表示在data中的索引位置，n表示包含的信息的对象
+                    $.each(data, function (key, value) {
+                        //获取对象中属性为optionsValue的值
+                        music += "<li>" +key+"——"+ value + "</li>";
+                    });
+                    music += "</ul>";
+                    $('#result').append(music);
+                }
+            });
+            console.log(htmlobj);
+            // 对页面进行操作
+            $("#myDiv").html(htmlobj.responseText);
+        });
+    });
+</script>
+</html>

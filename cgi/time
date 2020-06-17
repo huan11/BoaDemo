@@ -1,0 +1,7 @@
+#!/bin/sh
+echo "Content-Type:text/html;charset=utf-8\r\n"
+echo "<h2>`date '+%H:%M:%S'`</h2>"
+
+# date 'huan+%H:%M:%S'
+
+
